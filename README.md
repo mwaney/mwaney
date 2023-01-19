@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mwaney
-- 👀 I’m interested in front end web development i.e Javascript, HTML and css.
+- 👀 I’m a highly skilled front-end web developer with a passion for creating visually appealing and user-friendly websites. Proficient in HTML, CSS, JavaScript.
 - 🌱 I’m currently learning React Js.
 - 💞️ I’m looking to collaborate on any front end web application project
 - 📫 You can reach me throught my email: emwaniki91@gmail.com
